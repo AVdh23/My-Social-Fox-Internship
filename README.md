@@ -6,7 +6,9 @@
 ⏰ Total Time Spent: 4 hours
 
 
-[![Task 1 Thumbnail](https://github.com/ChildEater69/My-Social-Fox-Internship/assets/115105709/aaa87ce4-5245-473d-809a-af8f1224b711)](https://youtu.be/ruOe68s2fGU)
+<a href="https://youtu.be/ruOe68s2fGU" target="_blank">
+  <img src="https://github.com/ChildEater69/My-Social-Fox-Internship/assets/115105709/aaa87ce4-5245-473d-809a-af8f1224b711" alt="Task 1 Thumbnail" width="200" />
+</a>
 
 
 
