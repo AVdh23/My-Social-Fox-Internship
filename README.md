@@ -1,13 +1,32 @@
 # Social Fox Internship Progress
 
+Summary of Social Fox Internship Tasks:
+
+- Over the course of three days, I completed a series of exciting tasks as part of my Social Fox Internship, showcasing my skills in data analysis and machine learning.
+
+- On Day 1, I tackled the challenge of Email Spam Detection 📧 using the Multinomial Naive Bayes algorithm. I successfully achieved an impressive 97% accuracy in classifying emails as spam or ham. 🎯 Utilizing the Kaggle repository for relevant resources and Plotly for insightful visualizations, I confidently implemented the algorithm and saved the trained model for future use. 📈
+
+- Day 2 was dedicated to Unemployment Analysis of India 🇮🇳 using Python. Cleaning and preprocessing data, I delved into Plotly Express to create captivating visualizations. Additionally, I created an interactive Indian map 🗺️ showcasing state-wise unemployment rates. Covering datasets from 2019 to 2021 and Jan 2020 to Oct 2020, I gained valuable insights into India's unemployment trends. 📉
+
+- On the third day, I embarked on the exhilarating journey of Car Price Prediction. Handling null values and applying feature scaling, I skillfully trained a linear regression model on the data. 🚗 Analyzing the model's performance, I completed the project with enthusiasm. 🏁
+
+| [<img src="Task1-Email-Spam-Detection/Email-Spam-Detection/Thumbnail.jpg" width="200" alt="Task1">](https://www.youtube.com/watch?v=ruOe68s2fGU) | [<img src="Task2-Unemployement-Analysis-of-India/Unemployed-People-of-India/Thumbnail.jpg" width="200" alt="Task2">](https://youtu.be/EgTTAkQmHcM) | [<img src="Task3-Car-Price-Prediction-using-Machine-Learning/Car-Price-Prediction-Using-Machine-Learning/Thumbnail.jpg" width="200" alt="Task3">]()  |
+| :---: | :---: | :---: |
+| Task 1 | Task 2 | Task 3|
+
+Throughout the internship, I celebrated my progress and the invaluable insights gained from each task. Looking forward to more exciting challenges in my Social Fox journey, I am eager to continue honing my skills in data analysis and machine learning. 🎉💼💪
+
+
+
 ## Task 1 - Email Spam Detection using Multinomial Naive Bayes
 
 📅 Date: 18-07-2023
+
 ⏰ Total Time Spent: 4 hours
 
-
-
-
+| [<img src="Task1-Email-Spam-Detection/Email-Spam-Detection/Thumbnail.jpg" width="200" alt="Task1">](https://www.youtube.com/watch?v=ruOe68s2fGU) |
+| :---: |
+| Task 1 | 
 
 
 - Started the day with a bit of comfort despite my medical condition.
@@ -23,9 +42,12 @@
 ## Task 2 - Unemployment Analysis of India using Python
 
 📅 Date: 19-07-2023
+
 ⏰ Total Time Spent: 6 hours
 
-[![Task 2 Thumbnail](link_to_youtube_thumbnail_image_2)](link_to_youtube_video_2)
+| [<img src="Task2-Unemployement-Analysis-of-India/Unemployed-People-of-India/Thumbnail.jpg" width="200" alt="Task2">](https://youtu.be/EgTTAkQmHcM) |
+| :---: |
+| Task 2 |
 
 - Worked with Jupyter Notebook to perform the analysis on unemployment in India.
 - Downloaded the dataset from Kaggle repository, discovering two datasets - one covering 2019 to 2021 and the other from Jan 2020 to Oct 2020, including the Corona period.
@@ -45,9 +67,12 @@
 ## Task 3 - Car Price Prediction under My Social Price Prediction
 
 📅 Date: 20-07-2023
+
 ⏰ Total Time Spent: 4 hours
 
-[![Task 3 Thumbnail](link_to_youtube_thumbnail_image_3)](link_to_youtube_video_3)
+ | [<img src="Task3-Car-Price-Prediction-using-Machine-Learning/Car-Price-Prediction-Using-Machine-Learning/Thumbnail.jpg" width="200" alt="Task3">]()  |
+ | :---: |
+| Task 3 |
 
 🎉 Celebrated completing my last 3 tasks of the internship, feeling healthier and ready for the new challenge!
 
