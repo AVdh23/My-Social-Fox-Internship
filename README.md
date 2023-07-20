@@ -2,14 +2,17 @@
 
 ## Task 1 - Email Spam Detection using Multinomial Naive Bayes
 
-📅 Date: 18-07-2023
-⏰ Total Time Spent: 4 hours
-
-
 | [<img src="Task1-Email-Spam-Detection/Email-Spam-Detection/Thumbnail.jpg" width="200" alt="Task1">](https://www.youtube.com/watch?v=ruOe68s2fGU) | [<img src="Task2-Unemployement-Analysis-of-India/Unemployed-People-of-India/Thumbnail.jpg" width="200" alt="Task2">](https://youtu.be/EgTTAkQmHcM) | [<img src="Task3-Car-Price-Prediction-using-Machine-Learning/Car-Price-Prediction-Using-Machine-Learning/Thumbnail.jpg" width="200" alt="Task3">]()  |
 | :---: | :---: | :---: |
 | Task 1 | Task 2 | Task 3|
 
+📅 Date: 18-07-2023
+
+⏰ Total Time Spent: 4 hours
+
+| [<img src="Task1-Email-Spam-Detection/Email-Spam-Detection/Thumbnail.jpg" width="200" alt="Task1">](https://www.youtube.com/watch?v=ruOe68s2fGU) |
+| :---: |
+| Task 1 | 
 
 
 - Started the day with a bit of comfort despite my medical condition.
@@ -25,9 +28,12 @@
 ## Task 2 - Unemployment Analysis of India using Python
 
 📅 Date: 19-07-2023
+
 ⏰ Total Time Spent: 6 hours
 
-[![Task 2 Thumbnail](link_to_youtube_thumbnail_image_2)](link_to_youtube_video_2)
+| [<img src="Task2-Unemployement-Analysis-of-India/Unemployed-People-of-India/Thumbnail.jpg" width="200" alt="Task2">](https://youtu.be/EgTTAkQmHcM) |
+| :---: |
+| Task 2 |
 
 - Worked with Jupyter Notebook to perform the analysis on unemployment in India.
 - Downloaded the dataset from Kaggle repository, discovering two datasets - one covering 2019 to 2021 and the other from Jan 2020 to Oct 2020, including the Corona period.
@@ -47,9 +53,12 @@
 ## Task 3 - Car Price Prediction under My Social Price Prediction
 
 📅 Date: 20-07-2023
+
 ⏰ Total Time Spent: 4 hours
 
-[![Task 3 Thumbnail](link_to_youtube_thumbnail_image_3)](link_to_youtube_video_3)
+ | [<img src="Task3-Car-Price-Prediction-using-Machine-Learning/Car-Price-Prediction-Using-Machine-Learning/Thumbnail.jpg" width="200" alt="Task3">]()  |
+ | :---: |
+| Task 3 |
 
 🎉 Celebrated completing my last 3 tasks of the internship, feeling healthier and ready for the new challenge!
 
