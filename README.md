@@ -6,7 +6,9 @@
 ⏰ Total Time Spent: 4 hours
 
 
-
+| [<img src="Task1-Email-Spam-Detection/Email-Spam-Detection/Thumbnail.jpg" width="200" alt="Task1">](https://www.youtube.com/watch?v=ruOe68s2fGU) | [<img src="Task2-Unemployement-Analysis-of-India/Unemployed-People-of-India/Thumbnail.jpg" width="200" alt="Task2">](https://youtu.be/EgTTAkQmHcM) | [<img src="Task3-Car-Price-Prediction-using-Machine-Learning/Car-Price-Prediction-Using-Machine-Learning/Thumbnail.jpg" width="200" alt="Task3">]()  |
+| :---: | :---: | :---: |
+| Task 1 | Task 2 | Task 3|
 
 
 
