@@ -39,6 +39,13 @@ Throughout the internship, I celebrated my progress and the invaluable insights 
 
 🎉 Task 1 concluded successfully! Excited for what's next in my internship journey with Social Fox. 🚀💻
 
+## Demo Video of Task 1
+-------------------------
+
+[**Click here to watch Task 1 Demo Video**](https://github.com/ChildEater69/My-Social-Fox-Internship/assets/115105709/843a2e17-d091-445e-a28a-f806a01b53ef)
+
+
+
 ## Task 2 - Unemployment Analysis of India using Python
 
 📅 Date: 19-07-2023
@@ -63,6 +70,11 @@ Throughout the internship, I celebrated my progress and the invaluable insights 
 - Completed a comprehensive analysis of unemployment in India, covering both datasets for 2019 to 2021 and Jan 2020 to Oct 2020.
 
 🎉 Proud of my progress and the insights gained from this task. Looking forward to the next challenges in my internship with Social Fox! 💪💼
+
+## Demo Video of Task 2
+-------------------------
+[**Click here to watch Task 2 Demo Video**](https://github.com/ChildEater69/My-Social-Fox-Internship/assets/115105709/e6c5e2d2-c8a6-4bb5-bf82-e34fdc13f6af)
+
 
 ## Task 3 - Car Price Prediction under My Social Price Prediction
 
@@ -91,5 +103,9 @@ Throughout the internship, I celebrated my progress and the invaluable insights 
 🏁 Successfully completed the Car Price Prediction task! 🏆📈 Excited to see how well the model predicts car prices.
 
 🔍 Looking forward to the next challenges and learning opportunities in my Social Price Prediction internship. Let's keep up the momentum! 💪📊
+
+
+
+
 
 #SocialFoxInternship #EmailSpamDetection #MultinomialNaiveBayes #ProudOfMyProgress🦊 #UnemploymentAnalysis #DataVisualization #PythonPower #ProudProgress🚗 #SocialPricePrediction #CarPricePrediction #MachineLearning #DataAnalysis #ExcitingChallenges
