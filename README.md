@@ -5,7 +5,10 @@
 📅 Date: 18-07-2023
 ⏰ Total Time Spent: 4 hours
 
-[![Task 1 Thumbnail](link_to_youtube_thumbnail_image_1)](link_to_youtube_video_1)
+
+[![Task 1 Thumbnail](https://github.com/ChildEater69/My-Social-Fox-Internship/assets/115105709/aaa87ce4-5245-473d-809a-af8f1224b711)](https://youtu.be/ruOe68s2fGU)
+
+
 
 - Started the day with a bit of comfort despite my medical condition.
 - Worked on Task 1 of my internship at Social Fox, focusing on Email Spam Detection.
